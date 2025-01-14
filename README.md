@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a thing
 - 📫 How to reach me @_sonalhegde
 - 😄 Pronouns: he 
-- ⚡ Fun fact: "how much money does it require to make a man happy, just one more dollar(its not fun)
+- ⚡ Fun fact: "how much money does it require to make a man happy, just one more dollar(it's not funny)
 
 <!---
 Sonalhegde/Sonalhegde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
