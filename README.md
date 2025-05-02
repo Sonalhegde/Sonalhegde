@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonalhegde
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in ML,
+- 🌱 I’m currently learning on BUILDING full stack apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 
 - 😄 Pronouns: he/him
