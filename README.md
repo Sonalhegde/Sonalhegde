@@ -32,4 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalhegde&show_icons=true&locale=en" alt="sonalhegde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalhegde&" alt="sonalhegde" /></p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/SONALHEGDE" target="_blank">
+    <img src="assets/coffee-qr.png" alt="Buy Me a Coffee QR" width="200" style="border-radius: 16px;"/>
+  </a>
+</p>
+
 
