@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sonalhhegde@gmail.com**
 
-- ⚡ Fun fact **HOW MUCH MONEY IT TAKES TO MAKE A HUMAN HAPPY ? JUST ONE MORE DOLLAR**
+- ⚡ Fun fact **WHAT AMOUNT OF MONEY IT TAKES TO MAKE A HUMAN HAPPY ? JUST ONE MORE DOLLAR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
