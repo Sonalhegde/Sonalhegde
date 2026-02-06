@@ -10,3 +10,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Outline digital twin state synchronization architecture
 - **Notes**: Mapped WebSocket event bus and state persistence strategies.
 
+### 2026-02-06
+- **Focus**: Document 3d model compression and gltf optimization
+- **Notes**: Documented Draco mesh compression ratios and texture mipmap trade-offs.
+
