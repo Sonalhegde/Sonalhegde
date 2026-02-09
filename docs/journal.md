@@ -14,3 +14,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Document 3d model compression and gltf optimization
 - **Notes**: Documented Draco mesh compression ratios and texture mipmap trade-offs.
 
+### 2026-02-09
+- **Focus**: Update camera calibration guidelines for stereo vision
+- **Notes**: Outlined checkerboard calibration pipeline and distortion matrices.
+
