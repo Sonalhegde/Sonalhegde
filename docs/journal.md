@@ -22,3 +22,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Add sensor calibration curves and outlier rejection notes
 - **Notes**: Detailed median filtering and exponential moving averages.
 
+### 2026-02-15
+- **Focus**: Draft failsafe state machine specifications
+- **Notes**: Defined heartbeat timeout triggers and graceful shutdown actions.
+
