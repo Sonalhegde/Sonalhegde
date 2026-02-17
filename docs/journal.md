@@ -26,3 +26,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Draft failsafe state machine specifications
 - **Notes**: Defined heartbeat timeout triggers and graceful shutdown actions.
 
+### 2026-02-17
+- **Focus**: Add performance benchmarks for interactive rendering
+- **Notes**: Benchmarked 60 FPS WebGL frame budget under varied triangle counts.
+
