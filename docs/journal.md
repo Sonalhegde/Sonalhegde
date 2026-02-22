@@ -34,3 +34,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Log weekly technical milestones and code review notes
 - **Notes**: Organized weekly project milestones and refactoring tasks.
 
+### 2026-02-22
+- **Focus**: Add telemetry schema documentation for iot nodes
+- **Notes**: Defined JSON telemetry packet schemas for multi-sensor nodes.
+
