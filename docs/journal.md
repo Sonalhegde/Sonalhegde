@@ -38,3 +38,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Add telemetry schema documentation for iot nodes
 - **Notes**: Defined JSON telemetry packet schemas for multi-sensor nodes.
 
+### 2026-02-25
+- **Focus**: Add embedded communication protocol overview
+- **Notes**: Documented SPI vs I2C bus speeds and DMA buffer configurations.
+
