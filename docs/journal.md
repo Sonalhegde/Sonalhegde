@@ -66,3 +66,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Review api rate-limiting and caching patterns
 - **Notes**: Documented token bucket rate limiter and Redis caching layers.
 
+### 2026-03-19
+- **Focus**: Review esp-now peer-to-peer transmission latency
+- **Notes**: Benchmarked packet drop rates under simulated RF interference.
+
