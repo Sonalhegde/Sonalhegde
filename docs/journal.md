@@ -70,3 +70,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Review esp-now peer-to-peer transmission latency
 - **Notes**: Benchmarked packet drop rates under simulated RF interference.
 
+### 2026-03-22
+- **Focus**: Document real-time geospatial coordinate translation
+- **Notes**: Documented WGS84 to local cartesian frame transformation functions.
+
