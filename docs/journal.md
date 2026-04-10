@@ -102,3 +102,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Update camera calibration guidelines for stereo vision
 - **Notes**: Outlined checkerboard calibration pipeline and distortion matrices.
 
+### 2026-04-10
+- **Focus**: Add sensor calibration curves and outlier rejection notes
+- **Notes**: Detailed median filtering and exponential moving averages.
+
