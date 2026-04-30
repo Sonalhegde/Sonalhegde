@@ -130,3 +130,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Document automated ci test matrix for cross-platform builds
 - **Notes**: Configured environment matrices and artifact caching strategies.
 
+### 2026-04-30
+- **Focus**: Document motor controller pwm frequency tuning
+- **Notes**: Analyzed audible noise vs motor torque curves across frequencies.
+
