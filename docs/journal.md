@@ -134,3 +134,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Document motor controller pwm frequency tuning
 - **Notes**: Analyzed audible noise vs motor torque curves across frequencies.
 
+### 2026-05-03
+- **Focus**: Record dataset annotation guidelines for object detection
+- **Notes**: Drafted class labeling standards and bounding-box validation criteria.
+
