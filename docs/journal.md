@@ -138,3 +138,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Record dataset annotation guidelines for object detection
 - **Notes**: Drafted class labeling standards and bounding-box validation criteria.
 
+### 2026-05-06
+- **Focus**: Note power budget analysis for battery-operated nodes
+- **Notes**: Calculated sleep-cycle power consumption and expected battery longevity.
+
