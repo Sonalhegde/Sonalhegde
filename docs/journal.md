@@ -142,3 +142,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Note power budget analysis for battery-operated nodes
 - **Notes**: Calculated sleep-cycle power consumption and expected battery longevity.
 
+### 2026-05-10
+- **Focus**: Document feature extraction benchmarks for tracking algorithms
+- **Notes**: Compared SORT vs DeepSORT accuracy under occluded camera views.
+
