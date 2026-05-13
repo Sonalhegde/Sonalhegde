@@ -146,3 +146,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Document feature extraction benchmarks for tracking algorithms
 - **Notes**: Compared SORT vs DeepSORT accuracy under occluded camera views.
 
+### 2026-05-13
+- **Focus**: Review api rate-limiting and caching patterns
+- **Notes**: Documented token bucket rate limiter and Redis caching layers.
+
