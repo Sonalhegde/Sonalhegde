@@ -158,3 +158,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Document real-time geospatial coordinate translation
 - **Notes**: Documented WGS84 to local cartesian frame transformation functions.
 
+### 2026-05-23
+- **Focus**: Add notes on yolo model quantization for edge inference
+- **Notes**: Explored INT8 post-training quantization benchmarks for edge devices.
+
