@@ -162,3 +162,7 @@ A chronological development log documenting technical research, architecture dec
 - **Focus**: Add notes on yolo model quantization for edge inference
 - **Notes**: Explored INT8 post-training quantization benchmarks for edge devices.
 
+### 2026-05-29
+- **Focus**: Review spatial optical flow and motion estimation papers
+- **Notes**: Synthesized findings on lightweight optical flow architectures.
+
