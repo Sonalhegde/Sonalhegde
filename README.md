@@ -1,30 +1,139 @@
-<h1 align="center">Hi 👋, I'm SONAL HEGDE</h1>
-<h3 align="center">A passionate  developer and Writer </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalhegde&label=Profile%20views&color=0e75b6&style=flat" alt="sonalhegde" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonalhegde" alt="sonalhegde" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </
-
-- 📝 I regularly write articles on FINANCE [https://sonalhhegde.wixsite.com/firstlive](https://sonalhhegde.wixsite.com/firstlive)
-
-- 📫 How to reach me **sonalhhegde@gmail.com**
-
-- ⚡ Fun fact **HOW MUCH MONEY IT TAKES TO MAKE A HUMAN HAPPY ? JUST ONE MORE DOLLAR**
-
-<h3 align="left">Connect with me;</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sonal hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonal hegde" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sonal_hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonal_hegde" height="30" width="40" /></a>
+<p align="center">
+  <img src="loading.svg" alt="Sonal Hegde terminal boot animation" width="760" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR6c3QyeW9uNzFwZjEzNnRxbDduZGpwZXJwdzExZmRpeGtzMGRtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2z7dnO0exP5N4N2XQ/giphy.webp" width="24%" alt="Animated digital network" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/sonalhegde"><img src="https://github.com/sonalhegde.png" width="22%" alt="Sonal Hegde" /></a>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="24%" alt="Animated computing system" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalhegde&show_icons=true&locale=en&layout=compact" alt="sonalhegde" /></p>
+<p align="center">
+  <a href="https://github.com/sonalhegde"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=39FF88&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Electronics+%26+Communication+Engineering+Undergrad;Embedded+Systems+%7C+IoT+%7C+Cyber-Physical+Systems;Edge+AI+%7C+Digital+Twins+%7C+Computer+Vision" alt="Typing introduction" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalhegde&show_icons=true&locale=en" alt="sonalhegde" /></p>
+<p align="center">
+  <a href="mailto:sonalhhegde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/sonalhegde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sonalhegde-work.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://sonalhhegde.wixsite.com/firstlive"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&amp;logo=wix&amp;logoColor=white" alt="Blog" /></a>
+  <a href="https://www.leetcode.com/sonal_hegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalhegde&" alt="sonalhegde" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonalhegde&amp;label=Profile%20views&amp;color=00c853&amp;style=flat" alt="Profile views" />
+</p>
 
+---
+
+## System overview
+
+I am an Electronics and Communication Engineering undergraduate building at the intersection of **embedded systems, IoT, cyber-physical systems, Edge AI, and digital twins**. I turn research ideas into working prototypes—from architecture and firmware through testing, validation, and real-time integration.
+
+- 🔬 Exploring digital-twin research and real-time, multi-node sensor networks.
+- 🛰️ Building with MQTT, CoAP, ESP-NOW, BLE, Zigbee, and edge hardware.
+- 🧠 Deploying computer-vision and NLP workloads on resource-constrained systems.
+- 🏗️ Previously a Project Intern in Applied Cyber-Physical Systems at **NITK Surathkal**.
+- ✍️ Writing about finance at [FirstLive](https://sonalhhegde.wixsite.com/firstlive).
+- 📫 Reach me at **sonalhhegde@gmail.com**.
+
+> “How much money does it take to make a human happy? Just one more dollar.”
+
+---
+
+## Hardware and technology stack
+
+### Embedded systems and hardware
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&amp;logo=stmicroelectronics&amp;logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/NXP-000000?style=for-the-badge&amp;logo=nxp&amp;logoColor=white" alt="NXP" />
+  <img src="https://img.shields.io/badge/Silicon%20Labs-1D4B8F?style=for-the-badge&amp;logo=siliconlabs&amp;logoColor=white" alt="Silicon Labs" />
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&amp;logo=freertos&amp;logoColor=white" alt="FreeRTOS" />
+  <img src="https://img.shields.io/badge/PCB%20Design-FF6F00?style=for-the-badge&amp;logo=kicad&amp;logoColor=white" alt="PCB design" />
+</p>
+
+### IoT, networking, and protocols
+
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/CoAP-0080FF?style=for-the-badge&amp;logoColor=white" alt="CoAP" />
+  <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS IoT Core" />
+  <img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&amp;logo=bluetooth&amp;logoColor=white" alt="Bluetooth Low Energy" />
+  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&amp;logo=zigbee&amp;logoColor=white" alt="Zigbee" />
+  <img src="https://img.shields.io/badge/ESP--NOW-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP-NOW" />
+  <img src="https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C%20%7C%20CAN-3949AB?style=for-the-badge" alt="Hardware protocols" />
+</p>
+
+### AI, machine learning, and computer vision
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&amp;logo=yolo&amp;logoColor=white" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NLP-7E57C2?style=for-the-badge" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Edge%20AI-00C853?style=for-the-badge" alt="Edge AI" />
+</p>
+
+### Languages, web, automation, and design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,bash,git,github,matlab,threejs,blender,photoshop&amp;perline=12" alt="Python, C, C++, Java, JavaScript, Bash, Git, GitHub, MATLAB, Three.js, Blender, and Photoshop" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&amp;logo=webgl&amp;logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Langflow-121212?style=for-the-badge&amp;logoColor=white" alt="Langflow" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&amp;logoColor=white" alt="MATLAB Simulink" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
+</p>
+
+---
+
+## Selected builds
+
+| Project | What I built | Stack / impact |
+|---|---|---|
+| **Digital Twin Smart Transportation System** | Real-time platform with 10+ sensors and a distributed six-node railway-safety network | ESP32, Raspberry Pi, MQTT, CoAP, ESP-NOW, GSM |
+| **IoT Energy Profiler** | Portable measurement system tracking voltage, current, power, and energy across five operating modes | STM32L476RG, INA219, ESP32-C3, I2C |
+| **Marine Debris Detection** | Real-time drone-imagery pipeline optimized for edge deployment | YOLOv8, OpenCV, Jetson Nano; **90%+ accuracy** |
+| **Smart Medication Dispenser** | RTC scheduling, stepper actuation, cloud monitoring, and reminders | ESP32, Embedded C, AWS IoT; **85% fewer errors** in prototype testing |
+| **TruthSnap** | Multi-modal phishing detection using URLs, page content, OCR, and visual indicators | Python, Tesseract, NLP, CV; **92% accuracy** |
+| **Kuldio ESG Platform** | Transformer pipeline extracting and classifying sustainability metrics | Python, NLP, Transformers; **70% less manual effort** |
+| **VU Meter** | Custom PCB audio visualizer from schematic through assembly and test | LM3914, analog signal conditioning, PCB fabrication |
+
+---
+
+## GitHub analytics
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sonalhegde&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=39FF88" alt="Sonal Hegde's GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalhegde&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=39FF88" alt="Most-used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonalhegde&amp;theme=tokyonight&amp;border=39FF88" alt="GitHub contribution streak" />
+</p>
+
+## Contribution stream
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonalhegde/sonalhegde/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonalhegde/sonalhegde/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sonalhegde/sonalhegde/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>From circuits to intelligence—building systems where hardware meets the real world.</sub></p>

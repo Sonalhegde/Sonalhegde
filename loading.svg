@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="310" viewBox="0 0 760 310" role="img" aria-labelledby="title desc">
+  <title id="title">Sonal Hegde terminal boot animation</title>
+  <desc id="desc">An animated terminal initializes embedded systems and reveals Sonal Hegde in ASCII text.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="308" rx="14" fill="url(#panel)" stroke="#1f6feb" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="42" rx="14" fill="#161b22"/>
+  <path d="M1 30h758v13H1z" fill="#161b22"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="22" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
+  <text x="380" y="27" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#8b949e">sonal@edge-node: ~/cyber-physical-lab</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#39ff88" xml:space="preserve">
+    <text x="24" y="70" opacity="0">sonal@edge-node:~$ ./boot_profile.sh<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.94;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="24" y="95" opacity="0" fill="#58a6ff">[████████████████████] 100%  Edge AI + IoT modules online<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.08;0.18;0.94;1" dur="10s" repeatCount="indefinite"/></text>
+
+    <g opacity="0" filter="url(#glow)">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.3;0.94;1" dur="10s" repeatCount="indefinite"/>
+      <text x="24" y="130"> ____   ___  _   _    _    _</text>
+      <text x="24" y="148">/ ___| / _ \| \ | |  / \  | |</text>
+      <text x="24" y="166">\___ \| | | |  \| | / _ \ | |</text>
+      <text x="24" y="184"> ___) | |_| | |\  |/ ___ \| |___</text>
+      <text x="24" y="202">|____/ \___/|_| \_/_/   \_\_____|</text>
+      <text x="405" y="130"> _   _ _____ ____ ____  _____</text>
+      <text x="405" y="148">| | | | ____/ ___|  _ \| ____|</text>
+      <text x="405" y="166">| |_| |  _|| |  _| | | |  _|</text>
+      <text x="405" y="184">|  _  | |__| |_| | |_| | |___</text>
+      <text x="405" y="202">|_| |_|_____\____|____/|_____|</text>
+    </g>
+
+    <text x="24" y="238" opacity="0" fill="#f0f6fc">&gt; Embedded systems synchronized.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.4;0.94;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="24" y="263" opacity="0" fill="#f0f6fc">&gt; Digital twin connected. Welcome, Sonal Hegde.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4;0.48;0.94;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="411" y="263" fill="#39ff88">_<animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
