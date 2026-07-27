@@ -32,6 +32,7 @@
 
 I am an Electronics and Communication Engineering undergraduate building at the intersection of **embedded systems, IoT, cyber-physical systems, Edge AI, and digital twins**. I turn research ideas into working prototypes—from architecture and firmware through testing, validation, and real-time integration.
 
+- 🔭 Currently a Research Intern at **Sultan Qaboos University**, Oman.
 - 🔬 Exploring digital-twin research and real-time, multi-node sensor networks.
 - 🛰️ Building with MQTT, CoAP, ESP-NOW, BLE, Zigbee, and edge hardware.
 - 🧠 Deploying computer-vision and NLP workloads on resource-constrained systems.
