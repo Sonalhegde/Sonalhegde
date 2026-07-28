@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="loading.svg" alt="Sonal Hegde terminal boot animation" width="760" />
+  <img src="assets/loading.svg" alt="Sonal Hegde terminal boot animation" width="760" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR6c3QyeW9uNzFwZjEzNnRxbDduZGpwZXJwdzExZmRpeGtzMGRtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2z7dnO0exP5N4N2XQ/giphy.webp" width="24%" alt="Animated digital network" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/sonalhegde"><img src="https://github.com/sonalhegde.png" width="22%" alt="Sonal Hegde" /></a>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="24%" alt="Animated computing system" />
+  <a href="https://github.com/sonalhegde"><img src="https://github.com/sonalhegde.png" width="120" style="border-radius:50%" alt="Sonal Hegde" /></a>
 </p>
 
 <p align="center">
@@ -22,29 +18,51 @@
   <a href="https://www.leetcode.com/sonal_hegde"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonalhegde&amp;label=Profile%20views&amp;color=00c853&amp;style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## System overview
 
-I am an Electronics and Communication Engineering undergraduate building at the intersection of **embedded systems, IoT, cyber-physical systems, Edge AI, and digital twins**. I turn research ideas into working prototypes—from architecture and firmware through testing, validation, and real-time integration.
+**Embedded systems engineer turning sensor data into real-time decisions on constrained edge hardware.** Electronics & Communication Engineering undergraduate — I take a research idea from schematic and firmware through testing, validation, and real-time deployment.
 
-- 🔭 Currently a Research Intern at **Sultan Qaboos University**, Oman.
+- 🔭 **Currently:** Research Intern at **Sultan Qaboos University**, Oman.
+- 🏗️ **Previously:** Project Intern, Applied Cyber-Physical Systems, **NITK Surathkal**.
 - 🔬 Exploring digital-twin research and real-time, multi-node sensor networks.
-- 🛰️ Building with MQTT, CoAP, ESP-NOW, BLE, Zigbee, and edge hardware.
-- 🧠 Deploying computer-vision and NLP workloads on resource-constrained systems.
-- 🏗️ Previously a Project Intern in Applied Cyber-Physical Systems at **NITK Surathkal**.
-- ✍️ Writing about finance at [FirstLive](https://sonalhhegde.wixsite.com/firstlive).
-- 📫 Reach me at **sonalhhegde@gmail.com**.
+- 📬 Open to embedded / IoT internships and research collaborations — see contact links above.
 
-> “How much money does it take to make a human happy? Just one more dollar.”
+**Why this profile is worth a second look:**
+- 🎯 Every featured build below ships with a measured result, not just a feature list.
+- 🤝 Comfortable owning ambiguity — most of these started as "make this idea real," no spec attached.
+- 🛰️ Full stack across the embedded pipeline: PCB → firmware → protocol → cloud → dashboard.
+
+---
+
+## Featured builds
+
+<table>
+<tr>
+<td width="50%"><img src="assets/commit-digital-twin.svg" alt="Digital Twin Smart Transportation System key commit" width="100%" /></td>
+<td width="50%"><img src="assets/commit-marine-debris.svg" alt="Marine Debris Detection key result" width="100%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/commit-truthsnap.svg" alt="TruthSnap phishing detector key result" width="100%" /></td>
+<td width="50%"><img src="assets/commit-meddispenser.svg" alt="Smart Medication Dispenser key result" width="100%" /></td>
+</tr>
+</table>
+
+### More builds
+
+| Project | What I built | Stack / impact |
+|---|---|---|
+| **IoT Energy Profiler** | Portable measurement system tracking voltage, current, power, and energy across five operating modes | STM32L476RG, INA219, ESP32-C3, I2C |
+| **Kuldio ESG Platform** | Transformer pipeline extracting and classifying sustainability metrics | Python, NLP, Transformers; **70% less manual effort** |
+| **VU Meter** | Custom PCB audio visualizer from schematic through assembly and test | LM3914, analog signal conditioning, PCB fabrication |
 
 ---
 
 ## Hardware and technology stack
+
+<details>
+<summary><b>Core stack (click for the full breakdown)</b> — ESP32 / STM32 · MQTT / CoAP / ESP-NOW · PyTorch / OpenCV · Edge AI · Embedded C</summary>
 
 ### Embedded systems and hardware
 
@@ -65,9 +83,9 @@ I am an Electronics and Communication Engineering undergraduate building at the 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&amp;logo=mqtt&amp;logoColor=white" alt="MQTT" />
   <img src="https://img.shields.io/badge/CoAP-0080FF?style=for-the-badge&amp;logoColor=white" alt="CoAP" />
-  <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS IoT Core" />
+  <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS IoT Core" />
   <img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&amp;logo=bluetooth&amp;logoColor=white" alt="Bluetooth Low Energy" />
-  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&amp;logo=zigbee&amp;logoColor=white" alt="Zigbee" />
+  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&amp;logoColor=white" alt="Zigbee" />
   <img src="https://img.shields.io/badge/ESP--NOW-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP-NOW" />
   <img src="https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C%20%7C%20CAN-3949AB?style=for-the-badge" alt="Hardware protocols" />
 </p>
@@ -100,27 +118,15 @@ I am an Electronics and Communication Engineering undergraduate building at the 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
 </p>
 
----
-
-## Selected builds
-
-| Project | What I built | Stack / impact |
-|---|---|---|
-| **Digital Twin Smart Transportation System** | Real-time platform with 10+ sensors and a distributed six-node railway-safety network | ESP32, Raspberry Pi, MQTT, CoAP, ESP-NOW, GSM |
-| **IoT Energy Profiler** | Portable measurement system tracking voltage, current, power, and energy across five operating modes | STM32L476RG, INA219, ESP32-C3, I2C |
-| **Marine Debris Detection** | Real-time drone-imagery pipeline optimized for edge deployment | YOLOv8, OpenCV, Jetson Nano; **90%+ accuracy** |
-| **Smart Medication Dispenser** | RTC scheduling, stepper actuation, cloud monitoring, and reminders | ESP32, Embedded C, AWS IoT; **85% fewer errors** in prototype testing |
-| **TruthSnap** | Multi-modal phishing detection using URLs, page content, OCR, and visual indicators | Python, Tesseract, NLP, CV; **92% accuracy** |
-| **Kuldio ESG Platform** | Transformer pipeline extracting and classifying sustainability metrics | Python, NLP, Transformers; **70% less manual effort** |
-| **VU Meter** | Custom PCB audio visualizer from schematic through assembly and test | LM3914, analog signal conditioning, PCB fabrication |
+</details>
 
 ---
 
 ## GitHub analytics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sonalhegde&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=39FF88" alt="Sonal Hegde's GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalhegde&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=39FF88" alt="Most-used languages" />
+  <img height="175" src="profile/stats.svg" alt="Sonal Hegde's GitHub statistics" />
+  <img height="175" src="profile/top-langs.svg" alt="Most-used languages" />
 </p>
 
 <p align="center">
@@ -137,4 +143,7 @@ I am an Electronics and Communication Engineering undergraduate building at the 
   </picture>
 </p>
 
+---
+
+<p align="center"><sub>✍️ I also write about finance at <a href="https://sonalhhegde.wixsite.com/firstlive">FirstLive</a> — "How much money does it take to make a human happy? Just one more dollar."</sub></p>
 <p align="center"><sub>From circuits to intelligence—building systems where hardware meets the real world.</sub></p>

@@ -1,0 +1,16 @@
+<svg width="760" height="200" viewBox="0 0 760 200" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.75" y="0.75" width="758.5" height="198.5" rx="10" fill="#0d1117" stroke="#39FF88" stroke-width="1.5"/>
+<circle cx="22" cy="20" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="20" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="20" r="5" fill="#27c93f"/>
+<text x="380" y="24" font-family="'Fira Code',Consolas,monospace" font-size="12" fill="#7d8590" text-anchor="middle">sonal@edge-node-01: ~</text>
+<line x1="0" y1="34" x2="760" y2="34" stroke="#21262d" stroke-width="1"/>
+<text x="24" y="58" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#39FF88" opacity="0">$ ssh sonal@edge-node-01<animate attributeName="opacity" begin="0.2s" dur="0.3s" to="1" fill="freeze"/></text>
+<text x="24" y="82" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#7d8590" opacity="0">Connecting to cyber-physical-systems.local ...<animate attributeName="opacity" begin="0.7s" dur="0.3s" to="1" fill="freeze"/></text>
+<text x="24" y="104" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#c9d1d9" opacity="0"><tspan fill="#39FF88">[ OK ]</tspan> embedded_systems.module<animate attributeName="opacity" begin="1.2s" dur="0.25s" to="1" fill="freeze"/></text>
+<text x="24" y="126" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#c9d1d9" opacity="0"><tspan fill="#39FF88">[ OK ]</tspan> iot_stack.module -- mqtt / coap / esp-now<animate attributeName="opacity" begin="1.5s" dur="0.25s" to="1" fill="freeze"/></text>
+<text x="24" y="148" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#c9d1d9" opacity="0"><tspan fill="#39FF88">[ OK ]</tspan> edge_ai.module -- yolov8 / opencv / nlp<animate attributeName="opacity" begin="1.8s" dur="0.25s" to="1" fill="freeze"/></text>
+<text x="24" y="170" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#c9d1d9" opacity="0"><tspan fill="#39FF88">[ OK ]</tspan> digital_twin.module -- 6-node mesh online<animate attributeName="opacity" begin="2.1s" dur="0.25s" to="1" fill="freeze"/></text>
+<text x="24" y="192" font-family="'Fira Code',Consolas,monospace" font-size="14" fill="#39FF88" opacity="0">&gt; session ready<animate attributeName="opacity" begin="2.5s" dur="0.2s" to="1" fill="freeze"/></text>
+<rect x="158" y="182" width="8" height="15" fill="#39FF88" opacity="0"><animate attributeName="opacity" begin="2.5s" dur="0.15s" to="1" fill="freeze"/><animate attributeName="opacity" begin="2.65s" dur="0.9s" values="1;0;1" repeatCount="indefinite"/></rect>
+</svg>

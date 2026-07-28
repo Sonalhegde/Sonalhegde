@@ -1,0 +1,9 @@
+<svg width="460" height="112" viewBox="0 0 460 112" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="459" height="111" rx="8" fill="#0d1117" stroke="#39FF88" stroke-width="1.2"/>
+<text x="18" y="26" font-family="'Fira Code',Consolas,monospace" font-size="11" fill="#7d8590">$ git log -1 --oneline digital-twin-transport</text>
+<clipPath id="clipDigitalTwin"><rect x="18" y="36" width="0" height="20"><animate attributeName="width" from="0" to="415" dur="1.6s" begin="0.3s" fill="freeze"/></rect></clipPath>
+<text x="18" y="52" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#39FF88" clip-path="url(#clipDigitalTwin)">a3f9c21 feat(mesh): sync 6-node railway telemetry &lt;2s</text>
+<rect x="428" y="40" width="7" height="15" fill="#39FF88" opacity="0"><animate attributeName="opacity" begin="1.9s" dur="0.1s" to="1" fill="freeze"/><animate attributeName="opacity" begin="2.0s" dur="0.9s" values="1;0;1" repeatCount="indefinite"/></rect>
+<text x="18" y="78" font-family="'Fira Code',Consolas,monospace" font-size="11.5" fill="#c9d1d9">10+ sensors &#183; six-node railway-safety mesh, real time</text>
+<text x="18" y="98" font-family="'Fira Code',Consolas,monospace" font-size="10.5" fill="#7d8590">ESP32 &#183; Raspberry Pi &#183; MQTT &#183; CoAP &#183; ESP-NOW &#183; GSM</text>
+</svg>

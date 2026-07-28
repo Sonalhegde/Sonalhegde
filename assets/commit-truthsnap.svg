@@ -1,0 +1,14 @@
+<svg width="460" height="112" viewBox="0 0 460 112" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="scanClip"><rect x="18" y="40" width="330" height="22"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="459" height="111" rx="8" fill="#0d1117" stroke="#39FF88" stroke-width="1.2"/>
+<text x="18" y="26" font-family="'Fira Code',Consolas,monospace" font-size="11" fill="#7d8590">$ truthsnap scan --url --ocr --nlp --visual</text>
+<rect x="18" y="40" width="330" height="22" fill="#161b22" stroke="#30363d"/>
+<g clip-path="url(#scanClip)">
+<rect x="-40" y="40" width="14" height="22" fill="#39FF88" opacity="0.55"><animate attributeName="x" from="-40" to="340" dur="1.4s" begin="0.3s" repeatCount="3"/></rect>
+</g>
+<text x="26" y="55" font-family="'Fira Code',Consolas,monospace" font-size="11.5" fill="#c9d1d9">scanning page content, OCR, visual cues...</text>
+<text x="18" y="84" font-family="'Fira Code',Consolas,monospace" font-size="12.5" fill="#39FF88" opacity="0">result: phishing &#183; 92% confidence<animate attributeName="opacity" begin="4.3s" dur="0.4s" to="1" fill="freeze"/></text>
+<text x="18" y="102" font-family="'Fira Code',Consolas,monospace" font-size="10.5" fill="#7d8590">Python &#183; Tesseract OCR &#183; NLP &#183; computer vision</text>
+</svg>
